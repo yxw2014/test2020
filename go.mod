@@ -1,4 +1,4 @@
-module github.com/yxw2014/test2020/v1
+module github.com/yxw2014/test2020
 
 go 1.14
 

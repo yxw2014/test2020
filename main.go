@@ -1,7 +1,7 @@
 package main
 
-import "github.com/yxw2014/test2020/v1/p1"
-import "github.com/yxw2014/test2020/v1/p2"
+import "github.com/yxw2014/test2020/p1"
+import "github.com/yxw2014/test2020/p2"
 import "fmt"
 
 func main() {
