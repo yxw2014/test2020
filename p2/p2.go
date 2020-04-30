@@ -1,6 +1,6 @@
 package p2
 
-import "test2020/v1/p1"
+import "github.com/yxw2014/test2020/v1/p1"
 import "fmt"
 
 const P2 = 45
